@@ -1,6 +1,6 @@
 # HI, I'm Zura Nozadze JS developer ( 👨‍💻, 🇬🇪, 🎣, 🤠🔫, ⚽, 🏀 )
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=f78da7&size=32&lines=Software+Engineer;JS+Developer;Georgian+🇬🇪;Welcome...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=000080&size=32&lines=Software+Engineer;JS+Developer;Georgian+🇬🇪;Welcome...)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zura-nozadze-1a7701175/)
 
