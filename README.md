@@ -1,4 +1,4 @@
-# HI, I'm Zura Nozadze JS developer ( 👨‍💻, 🇬🇪, 🎣, 🤠🔫, ⚽, 🏀 )
+# HI, I'm [#0080FE](Zura Nozadze) [#FCD12A](JS) developer ( 👨‍💻, 🇬🇪, 🎣, 🤠🔫, ⚽, 🏀 )
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=0080FE&size=32&lines=Software+Engineer;JS+Developer;Georgian+🇬🇪;Welcome...)](https://git.io/typing-svg)
 
