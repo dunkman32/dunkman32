@@ -1,4 +1,4 @@
-# HI, I'm Zura Nozadze ${\color{#FCD12A}JS}$ developer ( 👨‍💻, 🇬🇪, 🎣, 🤠🔫, ⚽, 🏀 )
+# HI, I'm Zura Nozadze JS developer ( 👨‍💻, 🇬🇪, 🎣, 🤠🔫, ⚽, 🏀 )
 ![](https://i.imgur.com/LfGA3WY.jpg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zura-nozadze-1a7701175/)
 
