@@ -17,3 +17,9 @@
 - ⭐ FE Team Lead @ [Affix](https://www.facebook.com/affixnetwork/)
 - 💙 Developer at  @ [Maxin AI](https://www.maxinai.com/)
 - 🚀 Senior Developer at  @ [Lower Silesians](https://github.com/orgs/LowerSilesians/dashboard)
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
