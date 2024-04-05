@@ -19,7 +19,7 @@
 - 🚀 Senior Developer at  @ [Lower Silesians](https://github.com/orgs/LowerSilesians/dashboard)
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
 
