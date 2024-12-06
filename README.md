@@ -14,6 +14,7 @@
 - 👨‍💻 Software developer at [Datafest Tbilisi](https://www.datafest.ge/)
 - 💚 Senior Software developer at @ [Payunicard](https://payunicard.ge/en)
 - 🏎️ Senior Software developer at @ [CaucasusAuto](https://caucasusauto.com/)
+- 💜 Senior Frontend/React Native Developer at @ [Hashbank](https://hashbank.ge/en)
 - 🌱 Developer/Volunteer @ [Sadagi](https://www.sadagi.ge/)
 - ⭐ FE Team Lead @ [Affix](https://www.facebook.com/affixnetwork/)
 - 💙 Developer at  @ [Maxin AI](https://www.maxinai.com/)
